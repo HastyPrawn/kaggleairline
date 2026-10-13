@@ -1,1 +1,15 @@
-"""I want to work and create the winning/best/most accuracte solution to the Kaggle Predicting Airline Satisfaction challenge"""
+"""I want to work and create the winning/best/most accuracte solution to the Kaggle Predicting Airline Satisfaction challenge
+Evaluation
+Submissions are evaluated on area under the ROC curve between the predicted probability and the observed target.
+
+Submission File
+For each id in the test set, you must predict a probability for the satisfaction variable. The file should contain a header and have the following format:
+
+id,satisfaction
+699635,0.2
+699636,0.3
+699637,0.1
+etc.
+
+
+"""
